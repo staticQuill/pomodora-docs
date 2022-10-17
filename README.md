@@ -71,3 +71,8 @@ Pomodora is in active development. New features will be added as they are develo
 - More leaderboard sort functionality
 
 Bug reports are always welcomed. Please raise an issue on the public Pomodora Docs github repository if you encounter a bug. [You can find the issue board here.](https://github.com/staticQuill/pomodora-docs/issues)
+
+## Privacy Policy
+
+[View our privacy policy](https://staticquill.github.io/pomodora-docs/#/privacy)
+[View our terms of use](https://staticquill.github.io/pomodora-docs/#/terms)
