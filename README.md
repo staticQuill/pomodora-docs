@@ -47,7 +47,7 @@ and add it as a gadget.
 - Your timer will run down. When it reaches 0 seconds, you will hear another notification sound as long as you have not navigated away from the page
 - At this point, you can start your next timer
 
-> If you navigate away from the timer page, your notifications will not sound until you press your next "Start work/break timer" button.
+> If you navigate away from the timer page, your notifications may not sound until you press your next "Start work/break timer" button. This is due to protections put in place by your browser to prevent unwanted sound!
 
 > You can mute notifications in general through the Pomodora Dash dashboard gadget
 
